@@ -14,7 +14,11 @@
       <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/interfaces/exerplo02/Veiculo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/polimorfismo/Claculadora.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/polimorfismo/anotacoes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer05.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,11 +26,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ExerciciosJava" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2qa0te7hUvEih7Cf2S3tT0NtmDN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -35,7 +39,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "preferences.fileTypes"
   }
