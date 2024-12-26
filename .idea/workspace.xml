@@ -19,6 +19,24 @@
       <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer03.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer04.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/revisao" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,14 +54,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.fileTypes"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
