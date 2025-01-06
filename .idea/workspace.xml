@@ -2,41 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee64e50e-4cb0-4067-b67d-4723bf9679c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/interfaces/exemplo01/FiguraGeometrica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/interfaces/exemplo01/Quadrado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/interfaces/exerplo02/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/interfaces/exerplo02/Motor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/interfaces/exerplo02/Veiculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/polimorfismo/Claculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/polimorfismo/anotacoes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/revisao" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/matrizes/exerLoiane/Exer01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/IntersecaoVetores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer32.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/Exer32.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/revisao" beforeDir="false" afterPath="$PROJECT_DIR$/ExerciciosJava/src/main/java/vetores/revisao" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
